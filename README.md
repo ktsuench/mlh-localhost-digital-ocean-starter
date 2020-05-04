@@ -1,6 +1,19 @@
-# MLH Digital Ocean Workshop
+# RU Hacks Digital Ocean Workshop
 
 ## Technologies used in this project
+
+## Frameworks
+
+- [Bootstrap CSS Framework v3.3.7](https://getbootstrap.com/docs/3.3/)
+
+## JavaScript
+
+- [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- Web APIs
+  - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+  - [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- Libraries
+  - [jQuery v3.5.0](https://api.jquery.com/category/version/3.5/)
 
 ## NodeJS
 
