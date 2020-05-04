@@ -12,8 +12,3 @@ Node.js is a platform built on Chrome's JavaScript runtime for easily building f
 
 Fast, unopinionated, minimalist web framework for node. This is the framework with which we built the application.
 
-#### [request](https://www.npmjs.com/package/request)
-
-Request is designed to be the simplest way possible to make HTTP calls. It supports HTTPS and follows redirects by default.
-
-
